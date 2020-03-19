@@ -1,28 +1,3 @@
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.6  (Win32)">
-	<META NAME="CREATED" CONTENT="20170124;11510000">
-	<META NAME="CHANGEDBY" CONTENT="qwert asdf">
-	<META NAME="CHANGED" CONTENT="20200316;21525793">
-	<META NAME="AppVersion" CONTENT="15.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 1.27cm }
-		P { margin-bottom: 0.21cm; direction: ltr; color: #000000; widows: 2; orphans: 2 }
-		P.western { font-size: 12pt; so-language: en-US }
-		P.cjk { font-size: 12pt; so-language: en-US }
-		P.ctl { font-size: 12pt }
-		A:link { so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
 <BODY LANG="en-GB" TEXT="#000000" DIR="LTR">
 <DIV TYPE=HEADER>
 	<P LANG="en-US" STYLE="margin-bottom: 0cm; text-decoration: none"><BR>
