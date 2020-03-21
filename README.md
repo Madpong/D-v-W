@@ -19,7 +19,7 @@ Throughout this course I have learned a lot, but in a way that is totally differ
 
 ## Project concept
 
-The project is focused on several issues that I want to bring together. Video Mapping, Video Games, Interactivity, Motion Tracking Camera (or other sources) and Real Life.
+The project is focused on several areas that I want to bring together. Video Mapping, Video Games, Interactivity, Motion Tracking Camera (or other sources) and Real Life.
 
 The goal is to connect, play and learn with people who don&#39;t know each other in open places.
 
