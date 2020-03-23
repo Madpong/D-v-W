@@ -36,6 +36,7 @@ This time and not as in previous occasions in this course. I will go everywhere 
 
 ## Proposed research sources and bibliography
 
+
 - Arcade Longplay [185] Magical Drop III. (2011). _YouTube_. Available at: https://www.youtube.com/watch?v=X4aOHQxbJ9o [Accessed 16 Mar. 2020].
 - B-Reel (2017). _EELS - 3D Projection Mapping Multiplayer Game_. [online] Vimeo. Available at: https://vimeo.com/211021181 [Accessed 16 Mar. 2020].
 - bwatanabe.com. (n.d.). _Brent Watanabe : For( ){ };_ [online] Available at: http://bwatanabe.com/For\_installation.html [Accessed 16 Mar. 2020].
@@ -49,6 +50,7 @@ This time and not as in previous occasions in this course. I will go everywhere 
 _11.5: Computer Vision: Color Tracking - Processing Tutorial_. [online] Available at: https://www.invidio.us/watch?v=nCVZHROb\_dE [Accessed 16 Mar. 2020].
 - www.lab404.com. (n.d.). _lab404 awaits_. [online] Available at: http://www.lab404.com/ [Accessed 16 Mar. 2020].
 - www.pluralsight.com. (n.d.). _How to Build a Multiplayer Space Shooter Game: Part I | Pluralsight | Pluralsight_. [online] Available at: https://www.pluralsight.com/guides/building-a-multiplayer-space-shooter-part-i.‌ |
+- https://summer.ucsc.edu/courses/course-syllabi/2019/2019-cmpm-147-ferreira.pdf
 
 ## Libraries From  p5.js
 
