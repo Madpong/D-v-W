@@ -32,6 +32,8 @@ To develop this I will use Processing which gives me many real-time tools to pla
 ## Evaluation 
 
 This time and not as in previous occasions in this course. I will go everywhere with a little notebook in which I will write down all my progress. I will also use it as a diary to make my self-criticism, assumptions and changes more visible.I will also have the time present at all times and will constantly adapt my initial objectives with my real present possibilities. |
+
+
 ## Proposed research sources and bibliography
 
 - Arcade Longplay [185] Magical Drop III. (2011). _YouTube_. Available at: https://www.youtube.com/watch?v=X4aOHQxbJ9o [Accessed 16 Mar. 2020].
@@ -47,6 +49,24 @@ This time and not as in previous occasions in this course. I will go everywhere 
 _11.5: Computer Vision: Color Tracking - Processing Tutorial_. [online] Available at: https://www.invidio.us/watch?v=nCVZHROb\_dE [Accessed 16 Mar. 2020].
 - www.lab404.com. (n.d.). _lab404 awaits_. [online] Available at: http://www.lab404.com/ [Accessed 16 Mar. 2020].
 - www.pluralsight.com. (n.d.). _How to Build a Multiplayer Space Shooter Game: Part I | Pluralsight | Pluralsight_. [online] Available at: https://www.pluralsight.com/guides/building-a-multiplayer-space-shooter-part-i.‌ |
+
+## Libraries From Processing p5.js
+
+Name | Description
+VIDA | ADD CAMERA BASED MOTION DETECTION AND BLOB TRACKING
+TONE.JS | SOUND LIBRARY
+START2D | ESTATIC ART
+SHAPE | ADD MORE SIMPLE SHAPES
+P5.SERIAL | COM WITH R5-232
+P5.SCRIBBLE | DRAW PRIMITIVE AS SKETCHES
+SCENE MANAGER | MULTIPLE STATES
+ML5 | MACHINE LEARNING
+CREATE LOOP | GIF EXPORTER
+P5.CLICABLE | EASY BUTON LIBRARY
+ASCIART | IMG TO ASCI
+
+
+
 
 ## Action Plan
 | Project action plan and timetable |   |   |
