@@ -50,9 +50,10 @@ _11.5: Computer Vision: Color Tracking - Processing Tutorial_. [online] Availabl
 - www.lab404.com. (n.d.). _lab404 awaits_. [online] Available at: http://www.lab404.com/ [Accessed 16 Mar. 2020].
 - www.pluralsight.com. (n.d.). _How to Build a Multiplayer Space Shooter Game: Part I | Pluralsight | Pluralsight_. [online] Available at: https://www.pluralsight.com/guides/building-a-multiplayer-space-shooter-part-i.‌ |
 
-## Libraries From Processing p5.js
+## Libraries From  p5.js
 
 Name | Description
+ --- | --- 
 VIDA | ADD CAMERA BASED MOTION DETECTION AND BLOB TRACKING
 TONE.JS | SOUND LIBRARY
 START2D | ESTATIC ART
